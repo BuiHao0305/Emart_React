@@ -13,10 +13,10 @@ const Signup = () => {
             </div>
             <div className="modal-body">
               <button className="btn btn-primary w-100 mb-4">
-                <span className="bi bi-google"></span> Sign up With Google
+                <span className="bi bi-google me-1"></span> Sign up With Google
               </button>
               <button className="btn btn-primary w-100 mb-4">
-                <span className="bi bi-facebook me-2"></span> Sign up With
+                <span className="bi bi-facebook me-1"></span> Sign up With
                 Facebook
               </button>
               <form>
